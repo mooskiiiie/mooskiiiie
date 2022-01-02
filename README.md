@@ -13,5 +13,5 @@
 - ⚡ Fun fact: I used to play League of Legends competitively
 
 ### Connect with me:
-[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [linkedin]
+<a href='https://www.linkedin.com/in/sebastianvergara03/'>[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] </a>
 
