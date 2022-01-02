@@ -13,5 +13,7 @@
 - ⚡ Fun fact: I used to play League of Legends competitively
 
 ### Connect with me:
-<a href='https://www.linkedin.com/in/sebastianvergara03/'><img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
+<a href='https://www.linkedin.com/in/sebastianvergara03/'><img align="left" alt="linkedin" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
+<a href='https://www.instagram.com/mooskiiiie/'><img align="left" alt="instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a>
+<a href='https://twitter.com/sebmvergara'><img align="left" alt="twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> </a>
 
