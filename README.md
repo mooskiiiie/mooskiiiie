@@ -21,8 +21,8 @@
 
 ### Languages and Tools:
 <img align="left" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png"/>
-<img align="left" width="26px" src="http://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png"/>
+<img align="left" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg"/>
 <img align="left" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
 <img align="left" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
 <img align="left" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg"/>
-<img align="left" width="26px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"/>
+<img align="left" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg"/>
