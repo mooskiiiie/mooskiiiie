@@ -17,5 +17,12 @@
 <a href='https://www.instagram.com/mooskiiiie/'><img align="left" alt="instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a>
 <a href='https://twitter.com/sebmvergara'><img align="left" alt="twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> </a>
 
+<br>
+
 ### Languages and Tools:
 <img align="left" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png"/>
+<img align="left" width="26px" src="http://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png"/>
+<img align="left" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png"/>
+<img align="left" width="26px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"/>
+<img align="left" width="26px" src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png"/>
+<img align="left" width="26px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"/>
