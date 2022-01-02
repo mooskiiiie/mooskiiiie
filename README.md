@@ -17,3 +17,5 @@
 <a href='https://www.instagram.com/mooskiiiie/'><img align="left" alt="instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a>
 <a href='https://twitter.com/sebmvergara'><img align="left" alt="twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> </a>
 
+### Languages and Tools:
+<img align="left" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png"/>
