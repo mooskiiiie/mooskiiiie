@@ -1,5 +1,5 @@
 <h1> Hello there, I'm Basty! 👋 </h1>
-<img src="Downloads/Frame 1.png"/>
+<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6341e4fc-056e-4aec-89d7-3228e1bb4fac%2FFrame_1.png?table=block&id=71c1bbc2-7f39-4c6e-ac29-b6a904c01813&spaceId=8f09f762-452a-4529-9aec-4a54afe6ef75&width=2000&userId=f5039ca4-d2be-46b5-834a-43be9aa01086&cache=v2"/>
 <p><u>Data Scientist | Educator</u></p>
 
 <h3>I like to <b><u>learn, solve problems,</b></u> and <b><u>teach others.</b></u> 🇵🇭 </h3>
