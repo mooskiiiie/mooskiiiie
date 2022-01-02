@@ -20,9 +20,10 @@
 <br>
 
 ### Languages and Tools:
-<img align="left" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg"/>
+<img align="left" width="29px" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png"/>
+<img align="left" width="29px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg"/>
+<img align="left" width="29px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
+<img align="left" width="29px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+<img align="left" width="29px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg"/>
+<img align="left" width="29px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg"/>
+<img align="left" width="29px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg"/>
