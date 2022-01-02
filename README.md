@@ -1,5 +1,5 @@
 <h1> Hello there, I'm Basty! 👋 </h1>
-<img align="center" width=100px src="https://mir-s3-cdn-cf.behance.net/projects/404/7903b151547155.Y3JvcCw1NDcsNDI4LDExOCwyOA.png"/>
+<img align="center" width=100% src="https://mir-s3-cdn-cf.behance.net/projects/404/7903b151547155.Y3JvcCw1NDcsNDI4LDExOCwyOA.png"/>
 <p><u>Data Scientist | Educator</u></p>
 
 <h3>I like to <b><u>learn, solve problems,</b></u> and <b><u>teach others.</b></u> 🇵🇭 </h3>
