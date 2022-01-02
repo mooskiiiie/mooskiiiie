@@ -1,6 +1,6 @@
 <h1> Hello there, I'm Basty! 👋
 
-<h2> I'm a Data Scientist from the Philippines </h2>
+<h3> I'm a Data Scientist from the Philippines </h3>
 <!--
 **mooskiiiie/mooskiiiie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
