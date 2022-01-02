@@ -1,4 +1,5 @@
 <h1> Hello there, I'm Basty! 👋 </h1>
+<img src="Downloads/Frame 1.png"/>
 <p><u>Data Scientist | Educator</u></p>
 
 <h3>I like to <b><u>learn, solve problems,</b></u> and <b><u>teach others.</b></u> 🇵🇭 </h3>
