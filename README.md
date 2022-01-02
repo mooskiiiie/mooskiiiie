@@ -1,5 +1,5 @@
 <!--<h1> Hello there, I'm Basty! 👋 </h1>-->
-<img align="center" width=80% height=350px src="https://i.pinimg.com/originals/b2/f6/98/b2f6988e7371b7e9bb0b9864ab1a06ad.png"/>
+<img align="center" width=100% height=300px src="https://i.pinimg.com/originals/b2/f6/98/b2f6988e7371b7e9bb0b9864ab1a06ad.png"/>
 
 <h3>My name is Basty, and I like to <b><u>learn, solve problems,</b></u> and <b><u>teach others.</b></u> 🇵🇭 </h3>
 <p><u>Data Scientist | Educator</u></p>
