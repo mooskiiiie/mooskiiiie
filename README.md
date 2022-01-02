@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on <a href='https://www.taikee.co/'>Taikee</a>, an AI powered and insight-driven platform that helps Filipinos grow their finances
 - 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate on more data science projects
-- 📫 How to reach me: <a href='mailto:sebastianmvergara.tech@gmail.com'> click me! </a>
+- 📫 How to reach me: <a href='https://bit.ly/Sebastian_Vergara'> click me! </a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I used to play League of Legends competitively
 
