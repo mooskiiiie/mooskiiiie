@@ -14,11 +14,5 @@ Or you know, just<a href='https://bit.ly/Sebastian_Vergara'> click me! </a>
 
 <br>
 
-### Here's a list of my jutsus👌
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="left" width="29px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg"/>
-<img align="left" width="29px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg"/>
-<img align="left" width="29px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg"/>
+### Here are some of the jutsus I use👌
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
