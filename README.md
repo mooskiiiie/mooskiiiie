@@ -1,15 +1,13 @@
 <!--<h1> Hello there, I'm Basty! 👋 </h1>-->
 
-<h3>My name is Basty, and I like to <b><u>learn, solve problems,</b></u> and <b><u>teach others.</b></u> 🇵🇭 </h3>
-<p><u>Data Scientist | Educator</u></p>
-<hr>
+<h3>Hey, there! My name is Basty, but sometimes I go with Do-San</h3>
 
-- 🔭 I’m currently working on <a href='https://www.taikee.co/'>Taikee</a>, an AI powered and insight-driven platform that helps Filipinos grow their finances
-- 🌱 I’m currently learning machine learning
-- 👯 I’m looking to collaborate on more data science projects
-- 📫 How to reach me: <a href='https://bit.ly/Sebastian_Vergara'> click me! </a>
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I used to play League of Legends competitively
+<p>I'm a Data Scientist, Educator, and Writer who loves to <b><u>learn, solve problems,</b></u> and <b><u>teach others!</b></u> 🇵🇭 </p>
+
+<h3>Here's a teleportation jutsu to reach me 🤚👌👈👉🤟👊👐 </h3>
+[![Instagram Badge](https://img.shields.io/badge/peekapolar-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mooskiiiie/)
+<a href='https://bit.ly/Sebastian_Vergara'> click me! </a>
+
 
 ### Connect with me:
 <a href='https://www.linkedin.com/in/sebastianvergara03/'><img align="left" alt="linkedin" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
