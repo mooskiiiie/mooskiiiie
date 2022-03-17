@@ -5,7 +5,7 @@
 <p>I'm a Data Scientist, Educator, and Writer who loves to <b><u>learn, solve problems,</b></u> and <b><u>teach others!</b></u> 🇵🇭 </p>
 
 <h3>Here's a teleportation jutsu to reach me 🤚👌👈👉🤟👊👐 </h3>
-https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 <a href='https://bit.ly/Sebastian_Vergara'> click me! </a>
 
 
